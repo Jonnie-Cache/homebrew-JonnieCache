@@ -1,4 +1,4 @@
-class Autoconf < Formula
+class AutoconfAT264 < Formula
   desc "Automatic configure script builder"
   homepage "https://www.gnu.org/software/autoconf"
   url "https://ftp.gnu.org/gnu/autoconf/autoconf-2.64.tar.gz"
