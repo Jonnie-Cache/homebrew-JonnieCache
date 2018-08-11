@@ -1,4 +1,4 @@
-class bluez-tools < Formula
+class blueztools < Formula
   desc "Automatic configure script builder"
   homepage "https://github.com/khvzak/bluez-tools"
   url "https://github.com/khvzak/bluez-tools.git"
