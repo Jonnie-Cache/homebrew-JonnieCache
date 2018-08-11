@@ -5,7 +5,7 @@ class Bluez < Formula
   desc "Command line control of Bluetooth devices"
   homepage "https://github.com/khvzak/bluez-tools"
   url "https://github.com/khvzak/bluez-tools"
-  sha256 "1eebeec4fca7f0eff916a6bb726f1342548011ab40d46ccb5e885484b5f4236d"
+  sha256 "759c4c0b0df090a4744f8c82bf3ff77e33bf4837b96f3881e056b93d4b24c187"
   # depends_on "cmake" => :build
 
   def install
